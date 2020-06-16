@@ -8,7 +8,7 @@ version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md*
 *Running `bundle show minima` will provide you with the local path to your current theme version.*
 
 
-[Theme preview](https://jekyll.github.io/minima/)
+[Theme preview](joshua-ong.github.io)
 
 ![minima theme preview](/screenshot.png)
 
